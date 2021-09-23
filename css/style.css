@@ -650,7 +650,7 @@ img {
 .swiper-slide__picture {
   width: 400px;
   height: 250px;
-  background: url(/img/slide1.png) center center/contain no-repeat;
+  background: url(../img/slide1.png) center center/contain no-repeat;
 }
 
 @media (max-width: 767px) {
